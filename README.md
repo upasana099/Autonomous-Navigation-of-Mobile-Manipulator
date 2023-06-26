@@ -1,4 +1,4 @@
-### Mobile Robot Navigation and Manipulation
+# Mobile Robot Navigation and Manipulation
 
 
 This project involves the design and simulation of a mobile robot capable of navigating through a complex simulated environment and manipulating objects. The main application of this project is in the field of warehouse automation, where the robot can navigate through a warehouse, pick up items, and deliver them to their desired locations.
